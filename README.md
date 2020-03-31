@@ -1,1 +1,1 @@
-lights2010
+Example project lights2010
